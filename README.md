@@ -18,7 +18,7 @@ Participants need to sign up for each workshop individually.
 It is not necessary to sign up for the first workshop in order to do the second (and so on), but note that each workshop will build on the topics covered in previous workshops in this series.
 
 # Setup Instructions
-In these workshops, we will write Python code in a text editor called Virtual Studio Code (VS Code).
+In these workshops, we will write Python code in a text editor called Visual Studio Code (VS Code).
 
 NOTE: Feel free to use you own preferred text editor or Jupyter Notebooks to write code in these workshops, but keep in mind that some aspects may be unpredictably different from the way things appear on my screen. For example, I will frequently use the Python Debugger in VS Code, and other text editors may have an entirely different mechanisms for debugging, and you may have to figure that out on your own. If you want to follow what I'm doing exactly, you should install VS Code and the extensions that I list below.
 
