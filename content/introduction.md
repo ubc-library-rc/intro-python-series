@@ -26,6 +26,6 @@ NOTE: Feel free to use you own preferred text editor or Jupyter Notebooks to wri
 
 ### Please follow the following steps/links to complete the setup for this workshop series.
 1. Install a [**Python Interpreter**](https://code.visualstudio.com/docs/python/python-tutorial#_install-a-python-interpreter)
-2. Install [**Virtual Studio Code**](https://code.visualstudio.com/Download)
+2. Install [**Visual Studio Code**](https://code.visualstudio.com/Download)
 3. Install the [**Python extension for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-python.python). If you want more info on installing extensions for VS Code, see [this page on their "Extension Marketplace"](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace)
 4. Install this [**Python Debugger extension for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
