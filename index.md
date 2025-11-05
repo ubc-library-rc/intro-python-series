@@ -22,15 +22,7 @@ At the end of this workshop, you will understand:
 4. How to use logic and modularity to make Python code flexible and reusable.
 5. Good habits for programming for research in Python, including handling errors, debugging, and writing reliable code.
 
-## Schedule (coming soon)
 
-### Workshop 1 - Python Basics
-
-| 0:00 | 1. Setup |
-|---|---|
-| 0:30 | 2. Fundamentals |
-| 1:00 | 3. Lists |
-| 1:30 | 4. Scripts |
 
 
 
