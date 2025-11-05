@@ -20,12 +20,12 @@ Participants need to sign up for each workshop individually.
 It is not necessary to sign up for the first workshop in order to do the second (and so on), but note that each workshop will build on the topics covered in previous workshops in this series.
 
 # Setup Instructions
-In these workshops, we will write Python code in a text editor called Virtual Studio Code (VS Code).
+In these workshops, we will write Python code in a text editor called Visual Studio Code (VS Code).
 
 NOTE: Feel free to use you own preferred text editor or Jupyter Notebooks to write code in these workshops, but keep in mind that some aspects may be unpredictably different from the way things appear on my screen. For example, I will frequently use the Python Debugger in VS Code, and other text editors may have an entirely different mechanisms for debugging, and you may have to figure that out on your own. If you want to follow what I'm doing exactly, you should install VS Code and the extensions that I list below.
 
 ### Please follow the following steps/links to complete the setup for this workshop series.
 1. Install a [**Python Interpreter**](https://code.visualstudio.com/docs/python/python-tutorial#_install-a-python-interpreter)
-2. Install [**Virtual Studio Code**](https://code.visualstudio.com/Download)
+2. Install [**Visual Studio Code**](https://code.visualstudio.com/Download)
 3. Install the [**Python extension for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-python.python). If you want more info on installing extensions for VS Code, see [this page on their "Extension Marketplace"](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace)
 4. Install this [**Python Debugger extension for VS Code**](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
