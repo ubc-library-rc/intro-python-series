@@ -16,4 +16,6 @@ nav_order: 20
 
 Site template adapted from the [just-the-docs](https://github.com/pmarsceill/just-the-docs) Jekyll template created by [Patrick Marsceil](https://github.com/pmarsceill) and available under the [MIT License](http://opensource.org/licenses/MIT)
 
+These materials borrow heavily from the ["Programming with Python" materials by Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/), which is available under a [CC-BY 4.0 license](https://swcarpentry.github.io/python-novice-inflammation/LICENSE.html).
+
 Copyright: UBC Library Research Commons, [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/)

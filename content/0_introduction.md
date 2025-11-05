@@ -7,6 +7,9 @@ nav_order: 4
 
 This set of 5 workshops is an introduction to Python programming, with a focus on skills that would be relevant to students and researchers who are working with data, particularly tabular data.
 
+These materials borrow heavily from the ["Programming with Python" materials by Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/), which is available under a [CC-BY 4.0 license](https://swcarpentry.github.io/python-novice-inflammation/LICENSE.html).
+
+
 The 5 workshops have the following goals:
 1. To understand the basics of Python syntax, variables, and data types.
 2. To learn how to work with tabular data in Python, including reading, manipulating, and visualizing data.
