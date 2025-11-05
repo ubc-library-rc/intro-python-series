@@ -24,10 +24,13 @@ At the end of this workshop, you will understand:
 
 ## Schedule (coming soon)
 
-<!-- | 0:00 | Welcome and using Zoom|
-| 0:05 | Introduction |  
-| 0:15 |  |
-| 0:30 |  |   
-| 0:45 |  |
-| 1:00 | Wrap-up and Discussion | -->
+### Workshop 1 - Python Basics
+
+| 0:00 | 1. Setup |
+|---|---|
+| 0:30 | 2. Fundamentals |
+| 1:00 | 3. Lists |
+| 1:30 | 4. Scripts |
+
+
 
