@@ -18,7 +18,9 @@ To learn how to automate tasks in Python, including working with multiple files.
 
 ## Setup
 
-These instructions assume you've already installed the required software for this workshop series (instructions in [Introduction and Setup](./0_introduction.md)).
+These instructions assume you've already installed the required software for this workshop series (instructions in [Introduction and Setup](./0_introduction.md)). 
+
+If you have not finished the installation requirements, you can write code here: [https://mybinder.org/v2/gh/koudyk/blank-python-notebook/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb](https://mybinder.org/v2/gh/koudyk/blank-python-notebook/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
 
 1. Create a project folder where you'll store data and Python scripts, or find the folder you used in previous workshops in this series.
 2. [Download this file](https://github.com/ubc-library-rc/intro-python-series/blob/main/content/exhibit-visits.zip), put it in your folder, and extract the files in it (you should end up with 9 new csv files in your folder).
