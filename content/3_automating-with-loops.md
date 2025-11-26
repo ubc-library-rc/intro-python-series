@@ -1,0 +1,66 @@
+---
+layout: default
+title: 3 Automating Tasks with Loops
+nav_order: 14
+---
+
+# Workshop 3 - Automating Tasks with Loops
+
+## Workshop goal
+To learn how to automate tasks in Python, including working with multiple files.
+
+## Episodes and questions
+
+| Episode title | Topics covered | Questions answered |
+|---|---|---|
+| 3.1 Repeating Actions with Loops | How can I do the same operations on many different values?  |
+| 3.2 Repeating Actions Over Multiple Files | libraries, paths, reading data, manipulating data, simple analysis (e.g., calculating means) | How do I automatically generate a list of files that I want to work with? How can I do the same operations on many different files? |
+
+## Setup
+
+These instructions assume you've already installed the required software for this workshop series (instructions in [Introduction and Setup](./0_introduction.md)).
+
+1. Create a project folder where you'll store data and Python scripts, or find the folder you used in previous workshops in this series.
+2. [Download this file](https://github.com/ubc-library-rc/intro-python-series/blob/main/content/exhibit-visits.zip), put it in your folder, and extract the files in it (you should end up with 9 new csv files in your folder).
+3. To open your project in VS Code, open VS code, select `File > Open Folder`, and open the folder with the data.
+
+### Create a local Python environment, if you haven't in a previous workshop
+
+Skip this step if you created a Python environment for the previous workshop.
+
+Best practice in Python is to create a **virtual environment** for each project, which contains all the specific libraries (and specific versions) that you need for that project.
+
+We will use the `venv` tool to create an environment with the following steps:
+1. Open the Command Palette with `Ctrl+Shift+P`
+2. Type in **Python: Create Environment** and click on it
+3. Select `venv` as the tool we want to use to create the environment
+4. Select the Python interpreter that you want to use (probably the one with the highest numbers, starting with something like `Python 3.10`)
+
+After following these steps,  VS Code will create a `.venv` folder in your project folder.
+
+### Activate the environment
+
+VS Code may give you a pop-up asking if you want to activate the virtual environment that you just created.
+If it does, select Yes.
+
+If not, you can run a command in the terminal (in VS Code) to activate it.
+
+For **Windows**, you should run `.venv\Scripts\activate`.
+
+For **Mac** or **Linux**, you should run `source .venv/bin/activate`
+
+### Install Python libraries
+
+In the terminal in VS Code, you can install the libraries that we will need for this workshop by running the following commands.
+
+First, if you just created your Python environment, you should upgrade `pip`, which is the tool that we use to install Python libraries.
+
+```bash
+pip install --upgrade pip
+```
+
+Now we can install the libraries `numpy` and `matplotlib`.
+
+```bash
+pip install numpy matplotlib
+```
