@@ -74,3 +74,7 @@ Now we can install the libraries `numpy` and `matplotlib`.
 ```bash
 pip install numpy matplotlib
 ```
+
+## Acknowledgements
+
+These materials borrow heavily from the ["Programming with Python" materials by Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/), which is available under a [CC-BY 4.0 license](https://swcarpentry.github.io/python-novice-inflammation/LICENSE.html).
