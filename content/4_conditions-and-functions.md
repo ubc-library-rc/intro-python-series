@@ -31,7 +31,7 @@ These instructions assume you've already installed the required software for thi
 If you have not finished the installation requirements, you can write code here: [https://mybinder.org/v2/gh/koudyk/blank-python-notebook/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb](https://mybinder.org/v2/gh/koudyk/blank-python-notebook/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
 
 1. Create a project folder where you'll store data and Python scripts, or find the folder you used in previous workshops in this series.
-2. [Download this file](https://github.com/ubc-library-rc/intro-python-series/blob/main/content/exhibit-visits_city-x_varied-peak.zip), put it in your folder, and extract the files in it (you should end up with 9 new csv files in your folder).
+2. [Download this file](https://github.com/ubc-library-rc/intro-python-series/blob/main/content/book-data.zip), un-zip it, and put it in the folder you just created.
 3. To open your project in VS Code, open VS code, select `File > Open Folder`, and open the folder with the data.
 
 ### Create a local Python environment, if you haven't in a previous workshop
