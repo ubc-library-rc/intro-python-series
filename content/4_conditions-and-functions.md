@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4 Using Conditions and Writing Functions
-nav_order: 17
+nav_order: 18
 ---
 
 # Workshop 4 - Using Conditions and Writing Functions
