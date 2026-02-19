@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3 Automating Tasks with Loops
-nav_order: 15
+nav_order: 16
 ---
 
 # Workshop 3 - Automating Tasks with Loops
